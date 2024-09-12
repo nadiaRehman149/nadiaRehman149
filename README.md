@@ -10,5 +10,3 @@ Welcome to the land of the most _wonderful_ creations.
 [<img height="50" width="50" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>]()
 [<img height="50" width="50" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>]()
 [<img height="50" width="50" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>]()
-
-###### BEng (Hons) in Design Engineering | CodeFirstGirls Degree in Software Engineering
