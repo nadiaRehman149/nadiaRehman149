@@ -3,7 +3,7 @@
 
 WELCOME to the land of my coding creations.
 
-I like making stuff and knowing _how_ to make stuff. 
+I like making stuff and knowing how to make stuff. 
 
 Have a gander. 
 
