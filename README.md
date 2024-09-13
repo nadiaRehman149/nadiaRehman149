@@ -12,5 +12,3 @@ I like making stuff and knowing how to make stuff.
 [<img height="50" width="50" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>]()
 [<img height="50" width="50" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>]()
 
-
-↓ ↓ ↓ have a gander ↓ ↓ ↓
