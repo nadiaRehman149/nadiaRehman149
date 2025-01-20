@@ -5,7 +5,7 @@
 
 
 
-#### Languages & Technologies I'm exploring:
+#### Tech Stack:
 
 [<img height="50" width="50" alt="Python Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>]()
 [<img height="50" width="50" alt="C++ Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>]()
